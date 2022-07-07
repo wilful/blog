@@ -1,8 +1,7 @@
-Title: Eve Online, Ссылка для бесплатного 21-дневного периода игры
-Date: 2014-03-24 09:00:00 +0000
-Category: games
-Authors: A. Semenov
-Tags: eve, game, online
+---
+title: Eve Online; Ссылка для бесплатного 21-дневного периода игры
+published: true
+---
 
 Welcom to [Eve][link01]
 
